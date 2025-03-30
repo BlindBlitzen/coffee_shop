@@ -1,7 +1,11 @@
 # Coffee Shop Sales dashboard
 
 ## 📌 Project Overview
-A brief description of the Power BI project, including its purpose, key objectives, and target audience.
+This project uses sales data from a fictitious coffee shop franchise with 3 stores across New York.
+
+- `Purpose:`
+- `Key Objectives:`
+- `Target Audience:`
 
 ## 🏗️ Features
 - Key feature 1
